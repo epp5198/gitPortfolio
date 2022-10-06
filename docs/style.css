@@ -1,1 +1,8 @@
-body {color: red;}
+@font-face {
+   font-family: myFirstFont;
+   src: url(sansation_bold.woff);
+}
+
+* {
+   font-family: myFirstFont;
+}
