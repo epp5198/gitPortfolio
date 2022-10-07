@@ -17,7 +17,12 @@ nav ul.menuB li {
 
 
 }
-
-body.center {
-  margin: auto;
+h1 {
+text-align: center;
+}
+p {
+text-align: center;
+}
+html {
+text-align: center;
 }
