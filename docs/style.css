@@ -1,9 +1,6 @@
 p{
     font-family:arial, helvetica, sans-serif;
 }
-p{
-    font-family:arial, helvetica, sans-serif;
-}
  nav > ul.menuB {
  list-style-type: none;
 flex:9;
@@ -19,4 +16,10 @@ nav ul.menuB li {
   padding-bottom:8vw;
 
 
+}
+
+.center {
+  margin: auto;
+  border: 3px solid #73AD21;
+  padding: 10px;
 }
