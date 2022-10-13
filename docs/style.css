@@ -37,4 +37,6 @@ p {
 nav ul,menuB li {
     background-color: grey
 }
-
+body {
+    margin: 25px 50px 75px 100px;
+}
