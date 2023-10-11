@@ -3,6 +3,7 @@ window.addEventListener('DOMContentLoaded',init,false);
 function init() {
     alert('The page loaded!');
 }
+window.addEventListener('DOMContentLoaded',init,false);
 function init() {
     var buttons = document.getElementsByTagName("p")
 buttons[0].addEventListener('click', changeColor,false)
