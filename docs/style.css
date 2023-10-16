@@ -45,5 +45,7 @@ projects {
 }
 
  svg:hover #blackCircle{
-         transform:translate(-50%, -10%)
+         transform:translate(0%, 0%)
         }
+    svg:hover #blackCircle{
+                fill:var(--yellow)
