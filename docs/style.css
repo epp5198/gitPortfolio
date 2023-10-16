@@ -45,5 +45,5 @@ projects {
 }
 
  svg:hover #blackCircle{
-         transform:translate(-50%, -10%)
+         transform:translate(-30%, 0%)
         }
