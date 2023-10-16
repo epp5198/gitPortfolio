@@ -49,7 +49,7 @@ projects {
         }
     svg:hover #blackCircle{
                 fill:var(--yellow)
-svg:hover #blackLine{
+svg:hover #rect{
         transform-origin:center;
         transform:rotate(-180deg);
      }
